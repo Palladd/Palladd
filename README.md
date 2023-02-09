@@ -1,7 +1,7 @@
 # 🌌 Palladd
 <div s>
-<img src="profilówa.png" style="border-radius: 50%; height:100px; text-align:center;">
-<p styles="">Digital Craftsman</p>
+<!-- <img src="profilówa.png" style="border-radius: 50%; height:100px; text-align:center;">-->
+<p styles="">What you looking for darling 😮‍💨</p>
 
 
 
