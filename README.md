@@ -5,7 +5,7 @@
 ### **🔥 Work empowered by:**
 <div style="display: flex;">
 <a href="https://www.digitalocean.com/?refcode=1a070f57eec3&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" /></a>
-
+<br>
 <a href="https://cyberfolks.pl/"><img src="https://cyberfolks.pl/wp-content/uploads/2020/04/logo_cyber_folks.png"  width="200" height="65" style="border-radius: 3px; margin-left:16px;" alt="CyberFolks hosting"></a>
 
 <!-- <a href="https://cyberfolks.pl/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logo_Google_Analytics.svg/1200px-Logo_Google_Analytics.svg.png"  width="200" height="65" style="border-radius: 3px; margin-left:16px;" alt="CyberFolks hosting"></a> -->
