@@ -14,8 +14,8 @@
 <br>
 
 ## **What I'm doing right now?:**
-<p> 💻 I’m currently working on leroch.pl </p>
-<p> 🌱 I’m currently learning React ⚛ </p>
+<p> 💻 Currently working on Geolocalization App </p>
+<p> 🌱 I’m currently learning Backend 🖥 </p>
 
 📫 If you want to ask me about something...:
   - palladd@paldev.site - *my business email*
