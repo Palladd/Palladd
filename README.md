@@ -1,6 +1,5 @@
 # 🌌 ***Palladd***
 ### *Begginer front-end developer, selfemployed*
-<br>
 
 ### **🔥 Work empowered by:**
 <div style="display: flex;">
