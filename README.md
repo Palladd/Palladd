@@ -1,5 +1,5 @@
 # 🌌 ***Palladd***
-### *Begginer front-end developer, selfemployed*
+### *Begginer software developer, selfemployed*
 
 ### **🔥 Work empowered by:**
 <div style="display: flex;">
@@ -14,7 +14,7 @@
 <p> 🌱 I’m currently learning Backend 🖥 </p>
 
 📫 If you want to ask me about something...:
-  - palladd@paldev.site - *my business email*
+  - jamarcinboro@gmail.com - *my business email*
 
 # **📈 Stats**
 <div style="display: flex;">
