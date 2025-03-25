@@ -1,5 +1,5 @@
 # 🌌 ***Palladd***
-### *Begginer software developer, selfemployed*
+### *Junior software developer, HiveCV employee*
 
 ### **🔥 Work empowered by:**
 <div style="display: flex;">
@@ -10,11 +10,11 @@
 <br>
 
 ## **What I'm doing right now?:**
-<p> 💻 Currently working on Geolocalization App </p>
-<p> 🌱 I’m currently learning Backend 🖥 </p>
+<p> 💻 Currently working on Web App 🌐 </p>
+<p> 🌱 Learning to IT/Programmer Technician final exam 📝 </p>
 
 📫 If you want to ask me about something...:
-  - jamarcinboro@gmail.com - *my business email*
+  - *Contact me:* marcin.borowicz@icloud.com
 
 # **📈 Stats**
 <div style="display: flex;">
