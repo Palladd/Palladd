@@ -5,6 +5,8 @@
 <div style="display: flex;">
 <a href="https://www.digitalocean.com/?refcode=1a070f57eec3&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" /></a>
 <br>
+  <a href="https://www.cloudflare.com/"><img src="[https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg](https://www.vectorlogo.zone/logos/cloudflare/cloudflare-ar21.svg)" alt="Cloudflare" /></a>
+
 </div>
 
 <br>
