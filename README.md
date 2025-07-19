@@ -22,7 +22,9 @@
 
 # **📈 Stats**
 <div style="display: flex;">
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Palladd&show_icons=true&theme=dark&icon_color=0747cf&card_width=450px)
-<br>
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Palladd&layout=compact&card_width=450px&theme=dark&icon_color=0747cf)
 </div>
