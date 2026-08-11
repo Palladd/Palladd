@@ -1,5 +1,5 @@
 # 🌌 ***Palladd***
-### *Junior software developer, HiveCV employee*
+### *Junior software developer*
 
 ### **🔥 Work empowered by:**
 <div style="display: flex;">
